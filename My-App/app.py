@@ -1,7 +1,6 @@
 from cProfile import label
 from itertools import chain
 from pydoc import describe
-from turtle import onclick
 import numpy as np
 import pandas as pd 
 import streamlit as st
